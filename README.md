@@ -57,7 +57,6 @@
     </tr>
 		<tr>
 			<td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b> Tercer Proyecto de Sebastian</b></a></td>
-      <td><img alt="Stars" 
 <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
